@@ -27,7 +27,7 @@ https://nodejs.org/en
 Para iniciar o projeto, clone o repositório:
 
 ```
-git clone https://github.com/victormarques1/micday.git
+git clone https://github.com/victormarques1/devlink
 ```
 
 Entre no diretório do repositório local:
